@@ -13,7 +13,7 @@ package abstraction_package;
 	 {
 	
 
-		 System.out.println(" A deoist limit per day :"+depit);
+		 System.out.println(" A depoist limit per day :"+depit);
 		 
 		 if(depit<60000)
 			 
@@ -25,7 +25,7 @@ package abstraction_package;
 		 else
 		 {  
 			 System.out.println(" your not eligible");  
-			 System.out.println("Emergency pay interest 5%"); 
+			 System.out.println("Emergency cash interest 5%"); 
 			 
 			 
 		 }
