@@ -26,9 +26,7 @@ public class VECTOR1 {
 		int newcapacity = v.capacity();
 		System.out.println("new capacity:"+newcapacity);
 		
-		
-
-
+	
 	}
 
 }
