@@ -5,5 +5,5 @@
  * @author kavya
  *
  */
-module corejava {
+module in_heritance {
 }
